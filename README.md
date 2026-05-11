@@ -92,3 +92,6 @@ lms status
   "outcome": "left",
   "elo_correction": { "delta": 16.0, "ew_after": 1016.0 }
 }
+
+
+<img width="1143" height="693" alt="image" src="https://github.com/user-attachments/assets/30c285c6-151d-4980-9824-d44716000014" />
