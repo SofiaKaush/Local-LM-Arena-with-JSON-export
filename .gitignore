@@ -1,0 +1,12 @@
+Python
+
+pycache/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+Project specific
+
+arena_history.json
+.DS_Store

@@ -1,0 +1,2564 @@
+{
+  "inclusionai/ring-2.6-1t:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-3.1-flash-lite": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "baidu/cobuddy:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-chat-latest": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "x-ai/grok-4.3": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "ibm-granite/granite-4.1-8b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-medium-3-5": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openrouter/owl-alpha": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "poolside/laguna-xs.2:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "poolside/laguna-m.1:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "~anthropic/claude-haiku-latest": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "~openai/gpt-mini-latest": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "~google/gemini-pro-latest": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "~moonshotai/kimi-latest": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "~google/gemini-flash-latest": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "~anthropic/claude-sonnet-latest": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "~openai/gpt-latest": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3.5-plus-20260420": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3.6-flash": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3.6-35b-a3b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3.6-max-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3.6-27b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.5-pro": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.5": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepseek/deepseek-v4-pro": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepseek/deepseek-v4-flash": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "inclusionai/ling-2.6-1t": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "tencent/hy3-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "xiaomi/mimo-v2.5-pro": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "xiaomi/mimo-v2.5": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.4-image-2": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "inclusionai/ling-2.6-flash": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "~anthropic/claude-opus-latest": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openrouter/pareto-code": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "baidu/qianfan-ocr-fast:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "moonshotai/kimi-k2.6": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "anthropic/claude-opus-4.7": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "anthropic/claude-opus-4.6-fast": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "z-ai/glm-5.1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemma-4-26b-a4b-it:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemma-4-26b-a4b-it": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemma-4-31b-it:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemma-4-31b-it": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3.6-plus": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "z-ai/glm-5v-turbo": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "arcee-ai/trinity-large-thinking": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "x-ai/grok-4.20-multi-agent": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "x-ai/grok-4.20": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/lyria-3-pro-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/lyria-3-clip-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "kwaipilot/kat-coder-pro-v2": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "rekaai/reka-edge": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "xiaomi/mimo-v2-omni": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "xiaomi/mimo-v2-pro": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "minimax/minimax-m2.7": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.4-nano": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.4-mini": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-small-2603": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "z-ai/glm-5-turbo": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nvidia/nemotron-3-super-120b-a12b:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nvidia/nemotron-3-super-120b-a12b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "bytedance-seed/seed-2.0-lite": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3.5-9b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.4-pro": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.4": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "inception/mercury-2": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.3-chat": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-3.1-flash-lite-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "bytedance-seed/seed-2.0-mini": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-3.1-flash-image-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3.5-35b-a3b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3.5-27b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3.5-122b-a10b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3.5-flash-02-23": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "liquid/lfm-2-24b-a2b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-3.1-pro-preview-customtools": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.3-codex": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "aion-labs/aion-2.0": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-3.1-pro-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "anthropic/claude-sonnet-4.6": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3.5-plus-02-15": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3.5-397b-a17b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "minimax/minimax-m2.5:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "minimax/minimax-m2.5": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "z-ai/glm-5": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-max-thinking": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "anthropic/claude-opus-4.6": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-coder-next": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openrouter/free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "stepfun/step-3.5-flash": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "arcee-ai/trinity-large-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "moonshotai/kimi-k2.5": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "upstage/solar-pro-3": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "minimax/minimax-m2-her": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "writer/palmyra-x5": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "liquid/lfm-2.5-1.2b-thinking:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "liquid/lfm-2.5-1.2b-instruct:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-audio": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-audio-mini": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "z-ai/glm-4.7-flash": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.2-codex": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "bytedance-seed/seed-1.6-flash": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "bytedance-seed/seed-1.6": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "minimax/minimax-m2.1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "z-ai/glm-4.7": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-3-flash-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "xiaomi/mimo-v2-flash": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nvidia/nemotron-3-nano-30b-a3b:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nvidia/nemotron-3-nano-30b-a3b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.2-chat": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.2-pro": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.2": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/devstral-2512": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "relace/relace-search": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "z-ai/glm-4.6v": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nex-agi/deepseek-v3.1-nex-n1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "essentialai/rnj-1-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openrouter/bodybuilder": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.1-codex-max": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "amazon/nova-2-lite-v1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/ministral-14b-2512": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/ministral-8b-2512": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/ministral-3b-2512": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-large-2512": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "arcee-ai/trinity-mini": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepseek/deepseek-v3.2-speciale": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepseek/deepseek-v3.2": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "prime-intellect/intellect-3": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "anthropic/claude-opus-4.5": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "allenai/olmo-3-32b-think": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-3-pro-image-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "x-ai/grok-4.1-fast": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepcogito/cogito-v2.1-671b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.1-chat": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.1-codex": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5.1-codex-mini": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "moonshotai/kimi-k2-thinking": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "amazon/nova-premier-v1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "perplexity/sonar-pro-search": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/voxtral-small-24b-2507": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-oss-safeguard-20b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nvidia/nemotron-nano-12b-v2-vl:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "minimax/minimax-m2": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-vl-32b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "ibm-granite/granite-4.0-h-micro": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "microsoft/phi-4-mini-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5-image-mini": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "anthropic/claude-haiku-4.5": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-vl-8b-thinking": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-vl-8b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5-image": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/o3-deep-research": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/o4-mini-deep-research": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nvidia/llama-3.3-nemotron-super-49b-v1.5": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "baidu/ernie-4.5-21b-a3b-thinking": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-2.5-flash-image": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-vl-30b-a3b-thinking": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-vl-30b-a3b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5-pro": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "z-ai/glm-4.6": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "anthropic/claude-sonnet-4.5": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepseek/deepseek-v3.2-exp": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "thedrummer/cydonia-24b-v4.1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "relace/relace-apply-3": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-2.5-flash-lite-preview-09-2025": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-vl-235b-a22b-thinking": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-vl-235b-a22b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-max": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-coder-plus": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5-codex": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepseek/deepseek-v3.1-terminus": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "x-ai/grok-4-fast": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "alibaba/tongyi-deepresearch-30b-a3b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-coder-flash": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-next-80b-a3b-thinking": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-next-80b-a3b-instruct:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-next-80b-a3b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen-plus-2025-07-28:thinking": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen-plus-2025-07-28": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nvidia/nemotron-nano-9b-v2:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nvidia/nemotron-nano-9b-v2": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "moonshotai/kimi-k2-0905": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-30b-a3b-thinking-2507": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "x-ai/grok-code-fast-1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nousresearch/hermes-4-70b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nousresearch/hermes-4-405b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepseek/deepseek-chat-v3.1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4o-audio-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-medium-3.1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "baidu/ernie-4.5-21b-a3b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "baidu/ernie-4.5-vl-28b-a3b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "z-ai/glm-4.5v": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "ai21/jamba-large-1.7": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5-chat": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5-mini": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-5-nano": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-oss-120b:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-oss-120b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-oss-20b:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-oss-20b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "anthropic/claude-opus-4.1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/codestral-2508": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-coder-30b-a3b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-30b-a3b-instruct-2507": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "z-ai/glm-4.5": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "z-ai/glm-4.5-air:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "z-ai/glm-4.5-air": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-235b-a22b-thinking-2507": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "z-ai/glm-4-32b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-coder:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-coder": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "bytedance/ui-tars-1.5-7b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-2.5-flash-lite": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-235b-a22b-2507": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "switchpoint/router": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "moonshotai/kimi-k2": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/devstral-medium": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/devstral-small": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "cognitivecomputations/dolphin-mistral-24b-venice-edition:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "x-ai/grok-4": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "tencent/hunyuan-a13b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "morph/morph-v3-large": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "morph/morph-v3-fast": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "baidu/ernie-4.5-vl-424b-a47b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "baidu/ernie-4.5-300b-a47b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-small-3.2-24b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "minimax/minimax-m1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-2.5-flash": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-2.5-pro": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/o3-pro": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "x-ai/grok-3-mini": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "x-ai/grok-3": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-2.5-pro-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepseek/deepseek-r1-0528": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "anthropic/claude-opus-4": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "anthropic/claude-sonnet-4": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemma-3n-e4b-it": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-medium-3": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-2.5-pro-preview-05-06": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "arcee-ai/spotlight": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "arcee-ai/maestro-reasoning": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "arcee-ai/virtuoso-large": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "arcee-ai/coder-large": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-guard-4-12b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-30b-a3b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-8b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-14b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-32b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen3-235b-a22b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/o4-mini-high": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/o3": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/o4-mini": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4.1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4.1-mini": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4.1-nano": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "alfredpros/codellama-7b-instruct-solidity": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "x-ai/grok-3-mini-beta": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "x-ai/grok-3-beta": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-4-maverick": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-4-scout": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepseek/deepseek-chat-v3-0324": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/o1-pro": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-small-3.1-24b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemma-3-4b-it": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemma-3-12b-it": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "cohere/command-a": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4o-mini-search-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4o-search-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "rekaai/reka-flash-3": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemma-3-27b-it": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "thedrummer/skyfall-36b-v2": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "perplexity/sonar-reasoning-pro": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "perplexity/sonar-pro": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "perplexity/sonar-deep-research": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-2.0-flash-lite-001": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-saba": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-guard-3-8b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/o3-mini-high": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemini-2.0-flash-001": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen-vl-plus": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "aion-labs/aion-1.0": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "aion-labs/aion-1.0-mini": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "aion-labs/aion-rp-llama-3.1-8b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen-vl-max": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen-turbo": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen2.5-vl-72b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen-plus": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen-max": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/o3-mini": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-small-24b-instruct-2501": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepseek/deepseek-r1-distill-qwen-32b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "perplexity/sonar": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepseek/deepseek-r1-distill-llama-70b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepseek/deepseek-r1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "minimax/minimax-01": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "microsoft/phi-4": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "sao10k/l3.1-70b-hanami-x1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "deepseek/deepseek-chat": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "sao10k/l3.3-euryale-70b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/o1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "cohere/command-r7b-12-2024": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-3.3-70b-instruct:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-3.3-70b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "amazon/nova-lite-v1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "amazon/nova-micro-v1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "amazon/nova-pro-v1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4o-2024-11-20": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-large-2411": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-large-2407": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/pixtral-large-2411": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen-2.5-coder-32b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "thedrummer/unslopnemo-12b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "anthropic/claude-3.5-haiku": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "anthracite-org/magnum-v4-72b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen-2.5-7b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "inflection/inflection-3-productivity": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "inflection/inflection-3-pi": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "thedrummer/rocinante-12b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-3.2-3b-instruct:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-3.2-3b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-3.2-1b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-3.2-11b-vision-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "qwen/qwen-2.5-72b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "cohere/command-r-plus-08-2024": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "cohere/command-r-08-2024": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "sao10k/l3.1-euryale-70b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nousresearch/hermes-3-llama-3.1-70b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nousresearch/hermes-3-llama-3.1-405b:free": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nousresearch/hermes-3-llama-3.1-405b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "sao10k/l3-lunaris-8b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4o-2024-08-06": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-3.1-8b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-3.1-70b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-nemo": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4o-mini-2024-07-18": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4o-mini": {
+    "elo": 1030.5,
+    "wins": 2,
+    "losses": 0,
+    "ties": 0,
+    "battles": 2
+  },
+  "google/gemma-2-27b-it": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "sao10k/l3-euryale-70b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "nousresearch/hermes-2-pro-llama-3-8b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4o-2024-05-13": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4o": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-3-8b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "meta-llama/llama-3-70b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mixtral-8x22b-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "microsoft/wizardlm-2-8x22b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4-turbo": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "anthropic/claude-3-haiku": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-large": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4-turbo-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-3.5-turbo-0613": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "alpindale/goliath-120b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openrouter/auto": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4-1106-preview": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-3.5-turbo-instruct": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mistralai/mistral-7b-instruct-v0.1": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-3.5-turbo-16k": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "mancer/weaver": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "undi95/remm-slerp-l2-13b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "gryphe/mythomax-l2-13b": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4-0314": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-4": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "openai/gpt-3.5-turbo": {
+    "elo": 1000.0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 0
+  },
+  "google/gemma-2-9b-it:free": {
+    "elo": 969.5,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "battles": 2
+  }
+}
